@@ -22,18 +22,5 @@ public class Queue {
     	}
     }
     
-    public static void main(String[] args) {
-		// TODO Auto-generated method stub
-    	Queue q = new Queue();
-    	q.push(10);
-    	q.push(20);
-    	q.push(102);
-    	q.push(202);
-    	q.pop();
-    	q.push(30);
-    	q.push(2);
-    	q.display();
-    	
-    }
 
 }
